@@ -12,6 +12,11 @@ Connect with me on LinkedIn and follow my blog on dev.to 🤝🏻
 <h3 align="left">
 <a href="https://www.linkedin.com/in/muhammed-salie/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://dev.to/muhammedsalie/"><img src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt="Dev.to"/></a>
+
+## Profile Views
+
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=MuhammedSalie" alt="Muhammed Salie" /> <h2>
+  
 <!--
 **MuhammedSalie/MuhammedSalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
