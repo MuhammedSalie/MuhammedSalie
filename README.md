@@ -3,7 +3,7 @@ I'm Muhammed
 
 I am an experienced Application Support Specialist with a proven track record in troubleshooting complex technical issues and implementing effective solutions. I am highly motivated and continuously learning with a focus on DevOps, agile methodologies, and automation.
 
-- 🗣 Collaborated with over 30 business units to maintain and support a diverse portfolio of applications, ensuring alignment with each unit's unique business requirements.
+- 🗣 Collaborated with many units to maintain and support a diverse portfolio of applications, ensuring alignment with each unit's unique business requirements.
 - 🚀 I am a Brand Ambassador, with over 14 years experience in IT design and implementation.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
